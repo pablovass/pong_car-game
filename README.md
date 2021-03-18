@@ -3,8 +3,7 @@ It is a video game made in unity engine in its latest version 2019.4.21f1 LTS:
 
 # How to play the game?
 I leave you a url for you to play it
-
-https://pablovass.github.io/pong_car-game/
+https://pablodavallejos.github.io/pong_car-game/
 
   ...
 
